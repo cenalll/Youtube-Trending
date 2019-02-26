@@ -7,7 +7,9 @@ Data Analysis on USA YouTube videos in 2017-2018, for 40949 records.
 
 
 About the data:
+
 The dataset website can be find in the resource. There are 40949 rows and 16 columns in total in the USvideos.csv, containing video_id, title, category_id, tags, time about publish and trending, and most important -- audiences' reflection stats. Another useful file contains category name, mapping to the category_id.
+
 
 Here I demonstrate the trending of YouTube in USA on:
 
@@ -18,6 +20,7 @@ Here I demonstrate the trending of YouTube in USA on:
 3)Correlation betweeen Youtube audiences' actions
 
 4)Time of publishing and trending
+
 
 Applied packpage:
 
@@ -33,6 +36,7 @@ Applied packpage:
 
 6)WordCloud
 
+
 Key finding:
 
 1)The counting on views decides the virality of a video, plus counting on likes decide the popularity of a videos. 
@@ -43,6 +47,7 @@ Key finding:
 3)In this dataset, the most welcomed category are Entertainment, Music, Howto & Style, News & Politics, Comedy and Sports, and the most influenced channel are almost from above category. 
 
 4)The best publish time for a youtuber would be winter, either day, while better before 15th.
+
 
 Comment:
 
